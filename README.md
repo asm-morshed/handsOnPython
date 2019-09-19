@@ -1,1 +1,2 @@
 # handsOnPython
+Here some simple snippets of python as I'm going to start learning Django. The following writting is based on from where I've learnt Python [Tutorials Point](https://www.tutorialspoint.com/python) 
