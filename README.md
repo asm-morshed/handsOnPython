@@ -31,5 +31,31 @@ print str + "happy journey"     Add this text end of the line
 
 ## List and Tuples
 
-* List and Tuples are almost same and they both print values in the same way as string does. The main difference between List and Tuples is in List data can be updated but in Tuples it doesn't. Tuples works as a read-only type. *
+ *List and Tuples are almost same and they both print values in the same way as string does. The main difference between List and Tuples is in List data can be updated but in Tuples it doesn't. Tuples works as a read-only type.*
+ 
+ *Tuples are denoted with () whereas List is in []*
+ 
+ ## Python Dictornary
 
+ Python's dictonary is a kind of key value pair colletion. Here are some demonstration of it. 
+
+ ```
+lst = {}
+lst['one'] = "This is one"
+lst[2]     = "This is two"
+
+dict = {'name': 'john','code':123, 'dept': 'sales'}
+
+
+print lst['one']----------------------> Prints value for 'one' key
+print lst[2]--------------------------> Prints value for 2 key
+print dict----------------------------> Prints complete dictionary
+print dict.keys()---------------------> Prints all the keys
+print dict.values() ------------------> Prints all the values
+print dict['name'] -------------------> prints John
+
+```
+
+## Python Membership and Identity operator
+
+Membership (in || not in) operator checks whether a value is in a list, tuples or string. and Identity (is not is) operator compare the memory location. 
