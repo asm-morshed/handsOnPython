@@ -29,3 +29,7 @@ print str *2                    prints string two times
 
 print str + "happy journey"     Add this text end of the line
 
+## List and Tuples
+
+* List and Tuples are almost same and they both print values in the same way as string does. The main difference between List and Tuples is in List data can be updated but in Tuples it doesn't. Tuples works as a read-only type. *
+
