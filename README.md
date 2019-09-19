@@ -21,11 +21,11 @@ print str                       prints whole sentence
 
 print str[0]                    prints only first charater
 
-print str[2:5]                  #prints from 3rd character to 5th charater
+print str[2:5]                  prints from 3rd character to 5th charater
 
-print str[2:]                   #prints from 3rd characte to end
+print str[2:]                   prints from 3rd characte to end
 
-print str *2                    #prints string two times
+print str *2                    prints string two times
 
-print str + "happy journey"     # add this text end of the line
+print str + "happy journey"     Add this text end of the line
 
